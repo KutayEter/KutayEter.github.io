@@ -1,4 +1,11 @@
-style.css
 body {
-    background-color: red;
+    background-color:aqua;
+}
+div{
+    background-color:chartreuse;
+}
+div a {
+    color:red;
+    padding: 10px;
+    font-size: 24px;
 }
